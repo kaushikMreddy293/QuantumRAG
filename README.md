@@ -18,6 +18,7 @@ To set up and run this project, follow these steps:
 
 1. Download the Python Notebook
 2. Run it on Google Collab or Jupyter Notebook
+3. Get your API Key from Hugging Face 
 
 ### 4. Set Up Environment Variables
 
